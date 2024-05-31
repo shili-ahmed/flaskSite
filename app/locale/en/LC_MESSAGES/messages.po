@@ -64,15 +64,8 @@ msgstr ""
 
 #: app/templates/resume/index.html:39
 msgid ""
-"Il web framework MVC utilizzato è <strong>Flask</strong>, configurato per"
-" essere servito da un Application Server <strong>Gunicorn</strong> "
-"protetto da <strong>Nginx</strong> come webserver in modalità "
-"<strong>reverse proxy</strong>. Il grid-system è "
 "<strong>Bootstrap</strong>. Il sistema appartiene a una CDN di <strong>Cloudflare</strong>.<br />"
 msgstr ""
-"The MVC Web Framework used is <strong>Flask</strong>, configured to be "
-"served by a <strong>Gunicorn</strong> Application Server, behind a "
-"webserver <strong>Nginx</strong> in a reverse-proxy mode."
 "The grid-system is <strong>Bootstrap</strong>. The system is deployed in a <strong>Cloudflare</strong> CDN.<br />"
 
 #: app/templates/resume/index.html:40
@@ -88,27 +81,15 @@ msgstr ""
 #: app/templates/resume/index.html:41
 msgid ""
 "Gli unit test sono stati realizzati con <strong>pytest</strong> "
-"e <strong>Selenium Webdriver</strong> per simulare le azioni utente sul browser, mentre "
-"la componente di versionamento del codice prevede l'utilizzo di "
-"<strong>Git</strong> e un repository remoto su <strong>Github</strong>, "
-"integrato con <strong>Travis CI</strong> per abilitare i test automatici "
-"di <strong>Continuous Integration</strong> e la release automatica "
-"su <strong>Heroku</strong> in <strong>Continuous Delivery</strong>.<br />"
-msgstr ""
-"Unit tests are made with <strong>pytest</strong> and <strong>Selenium Webdriver</strong>, "
-"useful to simulate user actions with the browser. Also, I chose <strong>Git</strong> as "
-"Version Control System and built a remote <strong>Github</strong> repository, "
-"deeply integrated with <strong>Travis CI</strong>, in order to enable tests "
-"in <strong>Continuous Integration</strong> mode and automatic releases to <strong>Heroku</strong> "
 "in <strong>Continuous Delivery</strong> mode.<br />"
 
 #: app/templates/resume/index.html:42
 msgid ""
 "Il repository del progetto è disponibile qui: <a "
-"href='https://github.com/depontimatteo/resume_website_2020'>https://github.com/depontimatteo/resume_website_2020</a>"
+"href='https://github.com/ahmedshili/resume_website_2020'>https://github.com/ahmedshili/resume_website_2020</a>"
 msgstr ""
 "Remote project repository is available here: <a "
-"href='https://github.com/depontimatteo/resume_website_2020'>https://github.com/depontimatteo/resume_website_2020</a>"
+"href='https://github.com/ahmedshili/resume_website_2020'>https://github.com/ahmedshili/resume_website_2020</a>"
 
 #: app/templates/resume/index.html:56
 msgid "Esperienza professionale"

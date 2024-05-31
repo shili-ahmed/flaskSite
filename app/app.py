@@ -58,3 +58,5 @@ def error_handler(error):
                             code=503), 503
 
 
+if __name__=="__main__":
+    app.run()(debug=False,host='0.0.0.0')
